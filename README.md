@@ -4,7 +4,7 @@
 
 #### My name is Ritika Dhiman and I'm a Full stack developer. I'm from Chandigarh, India and currently working as a Machine Learning Research Intern at Design and Innovation Centre, Panjab University and building my technical skills as a Web Developer at Neog Bootcamp.
 
-#### 👩🏻‍💻 Here's a link to my [Portfolio](https://ritika-dhiman.netlify.app/) 
+#### 👩🏻‍💻 Here's a link to my [Portfolio](https://ritikadhiman.netlify.app/) 
 
 <hr>
 
