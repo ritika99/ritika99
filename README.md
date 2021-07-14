@@ -1,8 +1,11 @@
+
+<a href="https://anitab-org.github.io/open-source-day/open-source-day-2021-summer-mentors/"><img src="https://user-images.githubusercontent.com/35415933/125660620-f9c97b17-a44f-4373-ace6-575e7a672222.png" align="centre" width="100%"></a>
 <a href="https://ritika-dhiman.netlify.app/"><img src="https://raw.githubusercontent.com/ritika99/ritika99/main/assets/header-banner.gif" align="centre" width="100%"></a>
+
 
 ### 👋🏻 Hello, World! 
 
-#### My name is Ritika Dhiman and I'm a Full stack developer. I'm from Chandigarh, India and currently working as a Machine Learning Research Intern at Design and Innovation Centre, Panjab University and building my technical skills as a Web Developer at Neog Bootcamp.
+### My name is Ritika Dhiman and I'm a Full stack developer. I'm from Chandigarh, India and currently working as a Machine Learning Research Intern at Design and Innovation Centre, Panjab University and building my technical skills as a Web Developer at Neog Bootcamp. I will be contributing as a mentor at the Open Source Day 2021 in association with virtual Grace Hopper Celebration 2021 and giving back to thhe strong community of women in technology.
 
 #### 👩🏻‍💻 Here's a link to my [Portfolio](https://ritikadhiman.netlify.app/) 
 
